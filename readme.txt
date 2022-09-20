@@ -1,0 +1,1 @@
+A simple CyberChef app made in Wails.
