@@ -1,0 +1,4 @@
+frontend/node_modules
+node_modules
+# exclude the build asset folder
+build/bin
